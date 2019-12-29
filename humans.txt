@@ -1,0 +1,13 @@
+# humanstxt.org/
+
+# TEAM
+
+	Brad Weinberger - Los Angeles, CA
+
+# TECHNOLOGY
+
+	HTML5, CSS3, JS, JEKYLL
+
+# TEMPLATES
+
+	Indiogo by Sérgio Kopplin
