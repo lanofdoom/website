@@ -1,7 +1,7 @@
 ---
 title: Game
 layout: page
-permalink: /about/index.html
+permalink: /games/index.html
 ---
 #Games
 
