@@ -1,5 +1,5 @@
 ---
-title: Game
+title: Games
 layout: page
 permalink: /games/index.html
 ---
