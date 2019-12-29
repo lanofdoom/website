@@ -9,6 +9,8 @@ permalink: /games/index.html
 img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
+![Profile Image]({{ site.url }}/{{ site.picture }})
+
 <p>Not neccessarily comprehensive, but here are the things to have installed.</p>
 
 <h2>Required</h2>
