@@ -11,7 +11,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Not neccessarily comprehensive, but here are the things to have installed.</p>
+<p>Not necessarily comprehensive, but here are the things to have installed.</p>
 
 <h2>Required</h2>
 
