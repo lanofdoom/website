@@ -1,9 +1,9 @@
 ---
-title: Game List
+title: Game
 layout: page
 permalink: /about/index.html
 ---
-#Games List
+#Games
 
 <style>
 img { width: 50%; margin: 0 auto; display: block; }
