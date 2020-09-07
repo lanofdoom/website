@@ -17,7 +17,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 <ul class="skill-list">
 	<li>Overwatch</li>
-	<li>Warcraft 3: Reforged</li>
+	<li>Warcraft 3: Frozen Throne</li>
 	<li>Natural Selection 2</li>
 	<li>Source Forts</li>
 	<li>Counter-Strike Source</li>
