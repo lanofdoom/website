@@ -16,11 +16,11 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Required</h2>
 
 <ul class="skill-list">
-	<li>Overwatch</li>
+	<li>Counter-Strike: Source</li>
 	<li>Warcraft 3: Frozen Throne</li>
+	<li>Overwatch</li>
 	<li>Natural Selection 2</li>
 	<li>Source Forts</li>
-	<li>Counter-Strike Source</li>
 	<li>Quake 3 Arena</li>
 </ul>
 
