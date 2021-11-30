@@ -17,15 +17,18 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 <ul class="skill-list">
 	<li>Counter-Strike: Source</li>
-	<li>Warcraft 3: Frozen Throne</li>
-	<li>Overwatch</li>
-	<li>Natural Selection 2</li>
-	<li>Source Forts</li>
-	<li>Quake 3 Arena</li>
+	<li>Half Life 2</li>
+	<li>Golf With Your Friends (Steam)</li>
+	<li>Quake 3: Arena</li>
+	<li>Warcraft 3: Reforged</li>
 </ul>
 
 <h2>Optional</h2>
 
 <ul class="skill-list">
-	<li>Golf With Friends</li>
+	<li>Age of Empires II: Definitive Edition</li>
+	<li>Natural Selection 2</li>
+	<li>Overwatch</li>
+	<li>The Hidden: Source</li>
+	<li>Source Forts</li>
 </ul>
