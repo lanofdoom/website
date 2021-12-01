@@ -33,7 +33,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Age of Empires IV</li>
 	<li>Among Us</li>
 	<li>Back 4 Blood</li>
-	<li>Civilization VI/li>
+	<li>Civilization VI</li>
 	<li>Natural Selection 2</li>
 	<li>Murderous Pursuits</li>
 	<li>Overwatch</li>
