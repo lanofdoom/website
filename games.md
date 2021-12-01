@@ -35,8 +35,10 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Back 4 Blood</li>
 	<li>Civilization VI/li>
 	<li>Natural Selection 2</li>
+	<li>Murderous Pursuits</li>
 	<li>Overwatch</li>
 	<li>The Hidden: Source</li>
 	<li>The Ship</li>
+	<li>The Ship: Remastered</li>
 	<li>Source Forts</li>
 </ul>
