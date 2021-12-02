@@ -19,6 +19,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Counter-Strike: Source</li>
 	<li>Counter-Strike: Global Offensive</li>
 	<li>Half Life 2</li>
+	<li>Half Life 2: Deathmatch</li>
 	<li>Halo Infinite</li>
 	<li>Golf With Your Friends (Steam)</li>
 	<li>Left 4 Dead 2</li>
