@@ -21,7 +21,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Half Life 2 (for mods)</li>
 	<li>Half Life 2: Deathmatch (for mods)</li>
 	<li>Halo Infinite</li>
-	<li>Golf With Your Friends (Steam)</li>
+	<li>Golf With Your Friends (from Steam)</li>
 	<li>Left 4 Dead 2</li>
 	<li>Quake 3: Arena</li>
 	<li>Warcraft 3: Reforged</li>
