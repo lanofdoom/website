@@ -1,27 +1,32 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
-.bg {
-  /* The image used */
-  background-image: url("https://lanofdoom.com/assets/images/motd-css.jpg");
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+    }
 
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
+    img {
+      min-height: 100%;
+      min-width: 100%;
+      height: auto;
+      width: auto;
+      position: absolute;
+      top: -100%;
+      bottom: -100%;
+      left: -100%;
+      right: -100%;
+      margin: auto;
+    }
+  </style>
 </head>
+
 <body scroll=no>
-<div class="bg"></div>
+  <img src="https://lanofdoom.com/assets/images/motd-css.jpg" alt="">
 </body>
+
 </html>
