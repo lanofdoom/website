@@ -1,32 +1,38 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    html, body {
-      margin: 0;
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>LAN of DOOM</title>
+  <style type="text/css">
+    body,
+    html {
       height: 100%;
+      margin: 0;
       overflow: hidden;
     }
 
-    img {
-      min-height: 100%;
-      min-width: 100%;
-      height: auto;
-      width: auto;
-      position: absolute;
-      top: -100%;
-      bottom: -100%;
-      left: -100%;
-      right: -100%;
-      margin: auto;
+    .bg {
+      /* The image used */
+      background-image: url("https://lanofdoom.com/assets/images/motd-css.jpg");
+
+      /* Full height */
+      height: 100%;
+
+      /* Center and scale the image nicely */
+      background-position: top;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      /* Replacement for missing background-size in IE6-based renderers */
+      filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://lanofdoom.com/assets/images/motd-css.jpg",
+          sizingMethod="scale");
     }
   </style>
 </head>
 
-<body scroll=no>
-  <img src="https://lanofdoom.com/assets/images/motd-css.jpg" alt="">
+<body scroll="no">
+  <div class="bg"></div>
 </body>
 
 </html>
