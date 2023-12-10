@@ -17,9 +17,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 <ul class="skill-list">
 	<li>Counter-Strike: Source</li>
-	<li>Counter-Strike: Global Offensive</li>
 	<li>Half Life 2 (prerequisite for The Hidden: Source)</li>
-	<li>Halo Infinite</li>
 	<li>Golf With Your Friends (from Steam)</li>
 	<li>Left 4 Dead 2</li>
 	<li>Quake 3: Arena</li>
@@ -35,7 +33,9 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Among Us</li>
 	<li>Back 4 Blood</li>
 	<li>Civilization VI</li>
+	<li>Counter-Strike 2</li>
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
+	<li>Halo Infinite</li>
 	<li>Natural Selection 2</li>
 	<li>Murderous Pursuits</li>
 	<li>Overwatch</li>
