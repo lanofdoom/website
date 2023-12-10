@@ -21,6 +21,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Golf With Your Friends (from Steam)</li>
 	<li>Left 4 Dead 2</li>
 	<li>Quake 3: Arena</li>
+	<li>Source SDK Base 2006 (prerequisite for The Hidden: Source)</li>
 	<li>The Hidden: Source</li>
 	<li>Warcraft 3: Reforged</li>
 </ul>
