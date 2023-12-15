@@ -16,6 +16,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Required</h2>
 
 <ul class="skill-list">
+	<li>Age of Empires II: Definitive Edition</li>
 	<li>Counter-Strike: Source</li>
 	<li>Half Life 2 (prerequisite for The Hidden: Source)</li>
 	<li>Golf With Your Friends (from Steam)</li>
@@ -29,18 +30,17 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Optional</h2>
 
 <ul class="skill-list">
-	<li>Age of Empires II: Definitive Edition</li>
 	<li>Age of Empires IV</li>
 	<li>Among Us</li>
-	<li>Back 4 Blood</li>
 	<li>Civilization VI</li>
 	<li>Counter-Strike 2</li>
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
 	<li>Halo Infinite</li>
 	<li>Natural Selection 2</li>
 	<li>Murderous Pursuits</li>
-	<li>Overwatch</li>
+	<li>Overwatch 2</li>
 	<li>The Ship</li>
 	<li>The Ship: Remastered</li>
 	<li>SourceForts</li>
+	<li>Valorant</li>
 </ul>
