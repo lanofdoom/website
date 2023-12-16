@@ -37,10 +37,8 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
 	<li>Halo Infinite</li>
 	<li>Natural Selection 2</li>
-	<li>Murderous Pursuits</li>
 	<li>Overwatch 2</li>
 	<li>The Ship</li>
-	<li>The Ship: Remastered</li>
 	<li>SourceForts</li>
 	<li>Valorant</li>
 </ul>
