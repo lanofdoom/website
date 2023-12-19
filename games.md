@@ -30,7 +30,6 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Optional</h2>
 
 <ul class="skill-list">
-	<li>Age of Empires IV</li>
 	<li>Among Us</li>
 	<li>Civilization VI</li>
 	<li>Counter-Strike 2</li>
@@ -39,6 +38,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Natural Selection 2</li>
 	<li>Overwatch 2</li>
 	<li>The Ship</li>
+	<li>Source SDK Base 2013 Multiplayer  (prerequisite for SourceForts)</li>
 	<li>SourceForts</li>
 	<li>Valorant</li>
 </ul>
