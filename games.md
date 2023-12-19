@@ -38,6 +38,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Natural Selection 2</li>
 	<li>Overwatch 2</li>
 	<li>The Ship</li>
+	<li><a href="https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/">Supreme Commander: Forged Alliance</li>
 	<li>Source SDK Base 2013 Multiplayer  (prerequisite for SourceForts)</li>
 	<li>SourceForts</li>
 	<li>Valorant</li>
