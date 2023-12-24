@@ -34,12 +34,9 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Civilization VI</li>
 	<li>Counter-Strike 2</li>
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
-	<li>Halo Infinite</li>
 	<li>Natural Selection 2</li>
 	<li>Overwatch 2</li>
 	<li>The Ship</li>
-	<li><a href="https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/">Supreme Commander: Forged Alliance</a></li>
 	<li>Source SDK Base 2013 Multiplayer  (prerequisite for SourceForts)</li>
 	<li>SourceForts</li>
-	<li>Valorant</li>
 </ul>
