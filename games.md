@@ -32,7 +32,6 @@ img { width: 50%; margin: 0 auto; display: block; }
 <ul class="skill-list">
 	<li>Among Us</li>
 	<li>Civilization VI</li>
-	<li>Counter-Strike 2</li>
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
 	<li>Natural Selection 2</li>
 	<li>Overwatch 2</li>
