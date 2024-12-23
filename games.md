@@ -33,6 +33,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Among Us</li>
 	<li>Civilization VI</li>
 	<li>Half Life 2: Deathmatch (prerequisite for SourceForts)</li>
+	<li>Just Act Natural</li>
 	<li>Natural Selection 2</li>
 	<li>Overwatch 2</li>
 	<li>The Ship</li>
