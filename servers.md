@@ -14,7 +14,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 This is the most up-to-date list of the game servers we host.
 
 | Game                   | Location    | Join Instructions              |
-| ---------------------- | ----------- | ------------------------------ |
+|:---------------------- |:----------- |:------------------------------ |
 | Counter-Strike: Source | Lake Forest | connect lf.lanofdoom.com       |
 | Left 4 Dead 2          | Lake Forest | Use In-Game Lobby              |
 | The Hidden: Source     | Lake Forest | connect lf.lanofdoom.com 27017 |
