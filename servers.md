@@ -26,12 +26,12 @@ Join Command: N/A, Use In-Game Lobby<br>
 **The Hidden: Source** *(Hosted in Lake Forest)*<br>
 Address: lf.lanofdoom.com<br>
 Port: 27017<br>
-Join Command: `connect lf.lanofdoom.com 27017`<br>
+Join Command: `connect lf.lanofdoom.com:27017`<br>
 
 **SourceForts** *(Hosted in Lake Forest)*<br>
 Address: lf.lanofdoom.com<br>
 Port: 27018<br>
-Join Command: `connect lf.lanofdoom.com 27018`<br>
+Join Command: `connect lf.lanofdoom.com:27018`<br>
 
 **Quake III Arena** *(Hosted in Lake Forest)*<br>
 Address: lf.lanofdoom.com<br>
