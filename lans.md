@@ -45,8 +45,12 @@ both online and in-person to this day.
 * Dec 22, 2017: [2017 LAN of Doom](https://www.facebook.com/events/1109217419223328/)
 * Dec 22, 2018: [2018 LAN OF DOOM](https://www.facebook.com/events/1740360352725391/)
 * Dec 21, 2019: [2019](https://www.facebook.com/events/1845073165621154/)
-* Dec 19, 2020: [LAN OF DOOM 2020](https://www.facebook.com/events/1260390897480979/) (online)
+* Dec 19, 2020: [LAN OF DOOM 2020](https://www.facebook.com/events/1260390897480979/) (virtual)
+* Feb 21, 2021: Virtual, organized via Discord
 * Dec 19, 2021: In person, organized via Discord
+* Jan 22, 2022: Virtual, organized via Discord
+* Dec 10, 2022: Virtual, organized via Discord
 * Dec 17, 2022: In person, organized via Discord
 * Dec 23, 2023: In person, organized via Discord
+* Feb 03, 2024: Virtual, organized via Discord
 * Dec 21, 2024: In person, organized via Discord
