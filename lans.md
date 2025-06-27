@@ -5,6 +5,12 @@ permalink: /lans/index.html
 ---
 #LANs
 
+<style>
+img { width: 50%; margin: 0 auto; display: block; }
+</style>
+
+![Profile Image]({{ site.url }}/{{ site.picture }})
+
 The LAN of DOOM was born in Lake Forest, IL from the merger of multiple LAN
 groups that had until then been meeting separately. The exact chronology is now
 lost to time, but the precursor groups go at least as far back as early 2005 and
@@ -20,11 +26,11 @@ both online and in-person to this day.
 # List of Recorded LANs
 
 * Nov 16, 2007: [LAN of Doom](https://www.facebook.com/events/10153229613028088/)
-* Jan 4, 2008: [LAN of D0oM V2.0](https://www.facebook.com/events/10152732679595919/)
+* Jan 04, 2008: [LAN of D0oM V2.0](https://www.facebook.com/events/10152732679595919/)
 * Jan 19, 2008: [LAN of Doom V3.0](https://www.facebook.com/events/10152707245067063/)
 * Mar 21, 2008: [LAN of Doom Lite](https://www.facebook.com/events/10152814773823342/)
-* Jun 1, 2008: [The ONE LAN of DOOM](https://www.facebook.com/events/10152803810968372/)
-* Aug 2, 2008: [LAN of Doom](https://www.facebook.com/events/10152714462945064/)
+* Jun 01, 2008: [The ONE LAN of DOOM](https://www.facebook.com/events/10152803810968372/)
+* Aug 02, 2008: [LAN of Doom](https://www.facebook.com/events/10152714462945064/)
 * Aug 16, 2008: [LAN of Doom Finale](https://www.facebook.com/events/10153234259843255/)
 * Dec 27, 2008: [Return of Doom](https://www.facebook.com/events/10152818767438601/)
 * May 30, 2009: [LAN of Sweltering Doom](https://www.facebook.com/events/10154343330592837/)
