@@ -54,3 +54,10 @@ both online and in-person to this day.
 * Dec 23, 2023: In person, organized via Discord
 * Feb 03, 2024: Virtual, organized via Discord
 * Dec 21, 2024: In person, organized via Discord
+
+# Photos
+
+With so many LANs behind us, there's a lot that has been lost to history.
+Fortunately, some of it was recored in photos and videos and the ones that
+survived until today have been uploaded to
+[Google Photos](https://photos.app.goo.gl/1Pe5r1XSc5SuEqQg9).
